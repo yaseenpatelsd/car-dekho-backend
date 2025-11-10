@@ -72,17 +72,10 @@ Set your environment variable:
 {{base_url}} = http://localhost:8080
 {{token}} = your_JWT_token_here
 
-🧠 Future Enhancements
-
-Add image upload for car posts.
-
-Integrate payment gateway for booking/reservations.
-
-Add email verification and password reset.
 
 🧑‍💻 Author
 
 Yaseen Patel
-📧 [your-email@example.com
+📧 yaseenpatelsd@gmail.com
 ]
-💼 github.com/yourusername
+💼 github.com/yaseenpatelsd
